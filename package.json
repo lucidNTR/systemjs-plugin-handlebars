@@ -1,0 +1,7 @@
+{
+  "main": "hbs",
+  "registry": "jspm",
+  "dependencies": {
+    "handlebars": "github:components/handlebars.js@3.0.0"
+  }
+}
